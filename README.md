@@ -56,11 +56,11 @@
 
 ### 📂 My Projects
 
-🛡️ Online Payment Fraud Detection using Machine Learning
-🫁 AI-Driven Pneumonia Detection from Chest X-Rays
-🧠 2D Occupancy Grid Mapping using Overhead Cameras (Intel Internship Project)
-☁️ AWS Serverless Cloud Application (Cloud Computing Internship Project)
-📊 Analysing datasets using Python & R
+- 🛡️ Online Payment Fraud Detection using Machine Learning
+- 🫁 AI-Driven Pneumonia Detection from Chest X-Rays
+- 🧠 2D Occupancy Grid Mapping using Overhead Cameras (Intel Internship Project)
+- ☁️ AWS Serverless Cloud Application (Cloud Computing Internship Project)
+- 📊 Analysing datasets using Python & R
 
 ---
 
