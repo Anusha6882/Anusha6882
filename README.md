@@ -66,6 +66,7 @@
 
 ### 🏆 Certifications
 - 🏅 Intel Unnati Industrial Training
+- ☁️ AWS Cloud computing/ML(AWS-Academy)
 - 📜 Altair Data Science Internship (AICTE)
 - 🏭 NSIC Industrial Training
 - ✅ NSDC National Skill Competency
