@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">🌟 Hey, I'm Anusha R!</h1>
+<h1 align="center">🌟 Hey, I'm R Anusha!</h1>
 <p align="center">Crafting intelligent systems with code, one project at a time 🤖🚀</p>
 
 ---
