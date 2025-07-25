@@ -6,12 +6,15 @@
 
 - 🎓 B.Tech in **SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY**
 - 🧠 Specializing in **Artificial Intelligence & Machine Learning (AIML)**
-- 📍 Driven by data, building smart systems with Python, ML & Cloud ☁️
-## 🌱 I’m currently learning
+- 📍 Driven by Data analytics, building smart systems with Python, ML & Cloud ☁️
+- 
+## 📚 I’m currently learning
 - 🐍 Advanced Python for Data Science & AI
-- ☁️ 
-- ⚙️ Backend development for intelligent systems
-
+- 🧠 Model explainability, hyperparameter tuning, and ensemble methods in machine learning   
+- ☁️ AWS CLI, serverless architecture, CloudWatch, and CI/CD pipelines  
+- 📊 Power BI, Excel dashboards, and advanced data cleaning in data analytics  
+- ⚙️ FastAPI (advanced) for backend programming
+- 
 ---
 
 ## 🛠️ Technical Skills
@@ -59,8 +62,6 @@
 ☁️ AWS Serverless Cloud Application (Cloud Computing Internship Project)
 📊 Analysing datasets using Python & R
 
-
-📈 Analysing datasets using Python & R
 ---
 
 ### 🏆 Certifications
