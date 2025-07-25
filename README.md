@@ -7,14 +7,14 @@
 - 🎓 B.Tech in **SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY**
 - 🧠 Specializing in **Artificial Intelligence & Machine Learning (AIML)**
 - 📍 Driven by Data analytics, building smart systems with Python, ML & Cloud ☁️
-- 
+  
 ## 📚 I’m currently learning
 - 🐍 Advanced Python for Data Science & AI
 - 🧠 Model explainability, hyperparameter tuning, and ensemble methods in machine learning   
-- ☁️ AWS CLI, serverless architecture, CloudWatch, and CI/CD pipelines  
+- ☁️ Docker, AWS CLI, CloudWatch, and CI/CD pipelines  
 - 📊 Power BI, Excel dashboards, and advanced data cleaning in data analytics  
 - ⚙️ FastAPI (advanced) for backend programming
-- 
+  
 ---
 
 ## 🛠️ Technical Skills
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>⚙️ Backend & APIs</td>
-    <td><code>FastAPI</code>, <code>Flask</code>, <code>Postman</code>, REST APIs</td>
+    <td><code>FastAPI</code>, <code>Postman</code>, REST APIs</td>
   </tr>
   <tr>
     <td>🗄️ Databases</td>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td>☁️ Cloud & DevOps</td>
-    <td><code>AWS (Lambda, EC2, S3, IAM, RDS)</code>, <code>Firebase</code>, <code>Vercel</code>, <code>Docker</code>, <code>Git</code>, <code>GitHub</code>, <code>Render</code></td>
+    <td><code>AWS (Lambda, EC2, S3, IAM, RDS)</code>, <code>Firebase</code>, <code>Docker</code>, <code>Git</code>, <code>GitHub</code>, <code>Render</code></td>
   </tr>
   <tr>
     <td>🧪 Tools & Platforms</td>
