@@ -9,41 +9,58 @@
 - 📍 Driven by data, building smart systems with Python, ML & Cloud ☁️
 ## 🌱 I’m currently learning
 - 🐍 Advanced Python for Data Science & AI
-- ☁️ AWS / Cloud fundamentals
+- ☁️ 
 - ⚙️ Backend development for intelligent systems
 
 ---
 
-### 🧠 My Technical Toolkit
+## 🛠️ Technical Skills
 
-| Languages      | ML & DS Tools                | Cloud & DB     | Others               |
-|----------------|------------------------------|----------------|----------------------|
-| Python, R, Java, C | Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn | SQL, Power BI | Git, Jupyter Notebook, VS Code |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>👨‍💻 Programming Languages</td>
+    <td><code>Python</code> 🐍, <code>Java</code> ☕, <code>SQL</code> 🐘, <code>Bash</code> 🐚</td>
+  </tr>
+  <tr>
+    <td>📊 Data & ML Libraries</td>
+    <td><code>scikit-learn</code>, <code>pandas</code>, <code>NumPy</code>, <code>Matplotlib</code>, <code>Seaborn</code></td>
+  </tr>
+  <tr>
+    <td>🧠 Deep Learning & CV</td>
+    <td><code>PyTorch</code>, <code>OpenCV</code></td>
+  </tr>
+  <tr>
+    <td>⚙️ Backend & APIs</td>
+    <td><code>FastAPI</code>, <code>Flask</code>, <code>Postman</code>, REST APIs</td>
+  </tr>
+  <tr>
+    <td>🗄️ Databases</td>
+    <td><code>MongoDB</code>, <code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td>☁️ Cloud & DevOps</td>
+    <td><code>AWS (Lambda, EC2, S3, IAM, RDS)</code>, <code>Firebase</code>, <code>Vercel</code>, <code>Docker</code>, <code>Git</code>, <code>GitHub</code>, <code>Render</code></td>
+  </tr>
+  <tr>
+    <td>🧪 Tools & Platforms</td>
+    <td><code>Jupyter</code>, <code>Colab</code>, <code>VS Code</code>, <code>GitHub Projects</code></td>
+  </tr>
+</table>
 
----
+### 📂 My Projects
 
-### 📂 Projects
+🛡️ Online Payment Fraud Detection using Machine Learning
+🫁 AI-Driven Pneumonia Detection from Chest X-Rays
+🧠 2D Occupancy Grid Mapping using Overhead Cameras (Intel Internship Project)
+☁️ AWS Serverless Cloud Application (Cloud Computing Internship Project)
+📊 Analysing datasets using Python & R
 
-#### 🛡️ [Online Payment Fraud Detection](https://github.com/Anusha6882/Online-Payment-Fraud-Detection)
-- Built a fraud detection system using Random Forest & K-Means Clustering
-- Achieved high precision and recall on real-time transactional data
-- Focused on reducing false positives to improve financial security
 
-#### 🩺 Pneumonia Detection using Vision Transformer
-- Built a deep learning model using Vision Transformer (ViT) for pneumonia diagnosis from chest X-ray images
-- Enhanced accuracy and interpretability using patch-based self-attention
-- Compared performance with CNNs for clinical insight and improvement
-
-#### 🤖 2D Occupancy Grid Mapping (Intel Internship)
-- Developed a 2D indoor navigation map for robots using overhead cameras
-- Implemented GMapping algorithm with real-time image stitching
-- Enabled obstacle-aware path planning for autonomous systems
-
-#### 📊 Data Analytics with R (Altair Internship)
-- Analyzed datasets using Python & R
-- Built models with decision trees & hierarchical clustering
-- Generated insights and visualizations for real-world data problems
-
+📈 Analysing datasets using Python & R
 ---
 
 ### 🏆 Certifications
